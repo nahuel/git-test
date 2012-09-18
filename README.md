@@ -6,6 +6,7 @@ A repo just to test git
 
 adding a line
 
-+ test
-+ pixo
+ test
+ pixo
 
+agrego en user 1
